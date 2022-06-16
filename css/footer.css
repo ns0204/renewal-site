@@ -1,0 +1,36 @@
+footer pre{
+  font-size: 18px;
+  color: #fff;
+  line-height: 30px;
+  font-family: '나눔고딕';
+}
+
+footer .wrap{
+  padding-top: 50px;
+  width: 1200px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+} 
+
+footer .wrap div{
+  width: 500px;
+  height: 100%;
+  margin: 0 40px;
+}
+
+footer .wrap .sec2{
+  float: right;
+}
+
+footer{
+  width: 100%;
+  min-width: 1200px;
+  display: flex;
+  height: 300px;
+  margin: auto;
+  position: relative;
+  background: #574141;
+  background-size:cover;
+}
